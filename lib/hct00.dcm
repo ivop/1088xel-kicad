@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HCT00
+D Quad nand2
+K TTL nand2
+$ENDCMP
+#
+#End Doc Library
